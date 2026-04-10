@@ -5,7 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/NBC/SEONGHYEON_Hw6/hw6/Content/PlayGround.umap"
+				"C:/NBC/SEONGHYEON_Hw6/hw6/Content/PlayGround.umap",
+				"C:/NBC/SEONGHYEON_Hw6/hw6/Content/MyMyGameModeBase.uasset",
+				"C:/NBC/SEONGHYEON_Hw6/hw6/Content/BP/MyMoveItem.uasset",
+				"C:/NBC/SEONGHYEON_Hw6/hw6/Content/BP/BP_RotateItem.uasset",
+				"C:/NBC/SEONGHYEON_Hw6/hw6/Content/BP/BP_MoveItem.uasset",
+				"C:/NBC/SEONGHYEON_Hw6/hw6/Content/BP_MyGameMode.uasset"
 			]
 		}
 	]
