@@ -12,6 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <None Include="..\..\.gitignore" />
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -45,6 +46,9 @@
     <ClCompile Include="..\..\Source\hw6\Private\MoveItem.cpp">
       <Filter>Source\hw6\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\hw6\Private\MyGameModeBase.cpp">
+      <Filter>Source\hw6\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\hw6\Private\RotateItem.cpp">
       <Filter>Source\hw6\Private</Filter>
     </ClCompile>
@@ -52,6 +56,9 @@
       <UniqueIdentifier>{F652F57C-03F5-378E-AAAD-CDDD0EB4B33E}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\hw6\Public\MoveItem.h">
+      <Filter>Source\hw6\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\hw6\Public\MyGameModeBase.h">
       <Filter>Source\hw6\Public</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\hw6\Public\RotateItem.h">
