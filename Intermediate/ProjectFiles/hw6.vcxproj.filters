@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\hw6.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\hw6.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\hw6Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitignore" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\hw6">
+      <UniqueIdentifier>{077398C8-AFE8-3C79-8432-34955BC55BA9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\hw6\hw6.Build.cs">
+      <Filter>Source\hw6</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\hw6\hw6.cpp">
+      <Filter>Source\hw6</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\hw6\hw6.h">
+      <Filter>Source\hw6</Filter>
+    </ClCompile>
+    <Filter Include="Source\hw6\Private">
+      <UniqueIdentifier>{114C5C64-D1D3-3416-ABDF-2812001F2F0C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\hw6\Private\MoveItem.cpp">
+      <Filter>Source\hw6\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\hw6\Private\RotateItem.cpp">
+      <Filter>Source\hw6\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\hw6\Public">
+      <UniqueIdentifier>{F652F57C-03F5-378E-AAAD-CDDD0EB4B33E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\hw6\Public\MoveItem.h">
+      <Filter>Source\hw6\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\hw6\Public\RotateItem.h">
+      <Filter>Source\hw6\Public</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
